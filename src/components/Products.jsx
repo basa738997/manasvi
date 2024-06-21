@@ -4,7 +4,7 @@ function Products() {
   return (
     <div className=" w-[100%] h-[100%] flexour-products" id="products ">
       <div className=" text-center flex ">
-        <h1 className="text-2xl font-bold">Our Products</h1>
+        <h1 className="text-4xl items-center text-center text-green-500 mt-8  font-bold">OUR PRODUCTS</h1>
       </div>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
         {/* Product 1: E-Commerce */}

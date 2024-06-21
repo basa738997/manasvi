@@ -6,6 +6,7 @@ import About from './components/About';
 import Footer from './components/Footer';
 import Client from './components/Client';
 import Services from './components/Services';
+import Hero from './components/Hero';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -14,6 +15,7 @@ function App() {
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-grow">
+        <Hero />
         <Products />
         <Services />
         <Client />

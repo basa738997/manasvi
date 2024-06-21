@@ -7,7 +7,7 @@ import Header from './Header';
 import Footer from './Footer';
 import Products from './Products';
 import Services from './Services';
-import Welcome from './Welcome';
+import Hero from './Hero';
 
 
 function Routes() {
@@ -15,6 +15,7 @@ function Routes() {
     <div>
       < Routes>
         <Route path="/" element={<App />} />
+        < Route path="/Hero" element={< Hero />} />
         <Route path="/about" element={< About />} />
         <Route path="/client" element={< Client />} />
         <Route path="/header" element={< Header />} />
