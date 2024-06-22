@@ -8,7 +8,7 @@ function Products() {
       </div>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-4">
         {/* Product 1: E-Commerce */}
-        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl hover:scale-105 transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/e-commerce.cbd7fa0beb1b8b08d701.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -27,7 +27,7 @@ function Products() {
         </div>
 
         {/* Product 2: Hotel Management System */}
-        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl hover:scale-105 transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/hotel.a814f46366181d78816d.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -46,7 +46,7 @@ function Products() {
         </div>
 
         {/* Product 3: Clinic Management System */}
-        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl hover:scale-105 transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/clinic.1c340a09b09f367966f7.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -65,7 +65,7 @@ function Products() {
         </div>
 
         {/* Product 4: Restaurant Management System */}
-        <div className="card flex flex-col bg-white shadow-lg  rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg  rounded-lg p-4 hover:scale-105 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/restaurnet.fbf24ed567004a2dfbf8.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -84,7 +84,7 @@ function Products() {
         </div>
 
         {/* Product 5: Tiffin Management System */}
-        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:scale-105 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/tiffin%20logo.a40195ba6f20435a0c69.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -104,7 +104,7 @@ function Products() {
 
 
         {/* Product 7: Pharmacy Management System */}
-        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col bg-white shadow-lg rounded-lg p-4 hover:scale-105 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/pharmecy.6d9fd1f05da31b6cefe4.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -123,7 +123,7 @@ function Products() {
         </div>
 
         {/* Product 8: Hospital Management System */}
-        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg hover:scale-105 p-4 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/hospital.2aa73a2a7fa2f4be03a9.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -142,7 +142,7 @@ function Products() {
         </div>
 
         {/* Product 9: Travel Management System */}
-        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg hover:scale-105 p-4 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/Travels.8da6dad732f115ef84b8.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
@@ -161,7 +161,7 @@ function Products() {
         </div>
 
         {/* Product 10: HRM Management System */}
-        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg p-4 hover:shadow-2xl transition-shadow duration-300">
+        <div className="card flex flex-col mb-4 bg-white shadow-lg rounded-lg p-4 hover:scale-105 hover:shadow-2xl transition-shadow duration-300">
           <div className="flex-shrink-0 mb-4">
             <img src="https://manasviportfolio.online/static/media/hrm.3d904a2fa69d95da607d.png" alt="" className="w-40 h-40 object-cover rounded-lg mx-auto" />
           </div>
