@@ -2,11 +2,14 @@ import React from 'react';
 
 function About() {
   return (
-    <div id="about" className="flex justify-center items-center h-screen bg-gradient-to-r from-purple-200 to-blue-300">
-      <div className="text-center rounded-lg mx-8">
-      <span className="text-5xl  font-bold block mb-4 hover:text-black text-center text-green-500">ABOUT</span>
-        <p className='text-start rounded-lg text-lg font-semibold px-12 py-4'>
-          Manasvi Technologies (OPC) Pvt. Ltd. is an IT Company situated at Bhopal, Madhya Pradesh (India). Our professionals design element that complements the content, an interactive, user-friendly interface with integrated application features controlled with a technical foundation at the backend, to give the visitor a sense of a personal touch. Great website designing is actually about creating a website that aligns with an overarching strategy. Well-designed websites offer much more than just aesthetics. They attract visitors and help people understand your product, company, and brand. We have always been open to newest technologies, and have worked on future technologies at a time when people were sceptical about it. We are learners and hence, we never cease to educate ourselves on anything new and different that comes up in this industry. And this eagerness to stay ahead of the game is what has set us apart.
+    <div id="about" className="flex justify-center items-center bg-slate-200 min-h-screen">
+      <div className="max-w-4xl w-full bg-gradient-to-r from-purple-200 to-blue-300 rounded-lg shadow-lg hover:shadow-3xl transition-shadow duration-500 ease-in-out hover:scale-105 p-12">
+        <h2 className="text-4xl font-bold text-zinc-800 mb-4 text-center">ABOUT</h2>
+        <p className="text-lg leading-relaxed font-semibold text-gray-800 px-6">
+          Manasvi Technologies (OPC) Pvt. Ltd. is an IT Company situated in Bhopal, Madhya Pradesh, India. Our professionals design elements that complement the content, creating an interactive, user-friendly interface with integrated application features controlled by a robust technical foundation at the backend, giving visitors a personalized experience.
+        </p>
+        <p className="mt-4 text-lg font-semibold leading-relaxed text-gray-800 px-6">
+          Great website design goes beyond aesthetics. It attracts visitors and effectively communicates your product, company, and brand. At Manasvi Technologies, we embrace cutting-edge technologies and have pioneered future technologies at times of skepticism. We are lifelong learners, continuously educating ourselves on emerging trends to stay ahead in the industry.
         </p>
       </div>
     </div>

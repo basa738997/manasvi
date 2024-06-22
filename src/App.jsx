@@ -22,7 +22,7 @@ function App() {
         <About />
         <Footer />
       </main>
-      <footer className="bg-gray-800 text-white py-4 text-center">
+      <footer className="bg-gray-800 text-white py-4 border-t text-center">
         <p>© 2023-2024. All Rights Reserved |
         Manasvi Technologies (OPC) PVT. LTD</p>
       </footer>
